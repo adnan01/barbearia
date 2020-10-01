@@ -1,2 +1,2 @@
-# barbearia
+# Barbearia
 sistema de agendamento para Barbearia
